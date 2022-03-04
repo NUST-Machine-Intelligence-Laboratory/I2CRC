@@ -18,7 +18,7 @@ The architecture of our proposed approach is as follows
 
 * Clone this repo
 ```
-git clone https://github.com/NUST-Machine-Intelligence-Laboratory/-I2CRC
+git clone https://github.com/NUST-Machine-Intelligence-Laboratory/I2CRC
 ```
 
 ### Download PASCAL VOC 2012 
